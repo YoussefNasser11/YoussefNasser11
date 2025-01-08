@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef</h1>
 
 <h1 align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=1AF734&background=000000&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Welcome+to+Youssef's+GitHub;ASIC+Verification+Engineer;Digital+Design+&+Verification+Enthusiast" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=1AF734&background=000000&center=true&vCenter=true&multiline=true&width=435&height=80&lines=Welcome+to+Youssef's+Github;Design+Verification+Engineer" alt="Typing SVG" /></a>
 </a>
 </h1>
 
